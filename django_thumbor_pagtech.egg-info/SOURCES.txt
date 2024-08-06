@@ -1,0 +1,12 @@
+MANIFEST.in
+README.rst
+setup.py
+django_thumbor_pagtech/__init__.py
+django_thumbor_pagtech/conf.py
+django_thumbor_pagtech.egg-info/PKG-INFO
+django_thumbor_pagtech.egg-info/SOURCES.txt
+django_thumbor_pagtech.egg-info/dependency_links.txt
+django_thumbor_pagtech.egg-info/requires.txt
+django_thumbor_pagtech.egg-info/top_level.txt
+django_thumbor_pagtech/templatetags/__init__.py
+django_thumbor_pagtech/templatetags/thumbor_tags.py
